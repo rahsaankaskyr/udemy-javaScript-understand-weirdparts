@@ -8,3 +8,4 @@
 	- understand the how's & why's?
 
 - conceptual aside 
+	- syntax parsers, execution contexts, lexical environments
